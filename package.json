@@ -1,0 +1,19 @@
+{
+  "name": "slackapps-demo",
+  "version": "1.0.0",
+  "description": "Simple demo of using Bolt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csanghvi/slackapp-demo.git"
+  },
+  "author": "Chintan Sanghvi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/csanghvi/slackapp-demo/issues"
+  },
+  "homepage": "https://github.com/csanghvi/slackapp-demo#readme"
+}
