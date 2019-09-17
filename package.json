@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/csanghvi/slackapp-demo/issues"
   },
-  "homepage": "https://github.com/csanghvi/slackapp-demo#readme"
+  "homepage": "https://github.com/csanghvi/slackapp-demo#readme",
+  "dependencies": {
+    "@slack/bolt": "^1.2.0",
+    "dotenv": "^8.1.0"
+  }
 }
